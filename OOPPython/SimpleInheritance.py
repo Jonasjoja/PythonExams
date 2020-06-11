@@ -22,3 +22,6 @@ class Dog(Animal):
 
 robert = Dog("Robert","Chiuaua","ball")
 robert.play()
+
+class Bark:
+    pass
